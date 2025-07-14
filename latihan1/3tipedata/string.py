@@ -28,4 +28,19 @@ print("Nama saya sovi %s" % (namaPanjang))
 
 namaLengkap = 'sovi alfi nafilah'
 print("Nama saya {}".format(namaLengkap))
-# 
+
+#mengubah huruf besar dan kecil (upper dan lower)
+kata = 'sovi'
+kata = kata.upper()
+print(kata)
+
+kata = 'ALFI'
+kata = kata.lower()
+print(kata)
+
+# Awalan dan Akhiran whitespace (menghilangkan kata yang tidak diinginkan)
+print("sovi     ".rstrip())
+print("           Dicoding".lstrip())
+print("         alfi          ".strip())
+
+ 

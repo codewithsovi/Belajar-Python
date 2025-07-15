@@ -17,8 +17,13 @@ print(y[3])
 # indeks ke-3 dari terakhir
 print(y[-3])
 
-# pengambilan data berdasarkan sequence
+# pengambilan data berdasarkan sequence (slicing)
+x = ["laptop", "monitor", "mouse", "mousepad", "keyboard", "webcam", "microphone"]
+
 # sequence[start:stop:step]
+print(x[0:5:2])
+print(x[1:])
+print(x[:3])
 
 
 

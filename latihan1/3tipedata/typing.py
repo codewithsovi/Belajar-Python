@@ -10,3 +10,4 @@ print(type(age))
 print(type(salary))
 print(type(name))
 print(type(x))
+

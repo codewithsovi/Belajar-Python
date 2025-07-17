@@ -4,7 +4,7 @@ x ={'nama':'sovi', 'umur':17, 'jenis kelamin':'perempuan', 'indonesia':True}
 print(type(x))
 
 # indexing
-print(x['nama']) 
+print("nama", x['nama'], "RI", x['indonesia']) 
 print(x['umur']) 
 
 # menambahkan data pada dictionary

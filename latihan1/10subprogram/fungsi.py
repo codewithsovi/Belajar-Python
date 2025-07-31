@@ -33,7 +33,6 @@ def cetak_info(**kwargs):
 
 print(cetak_info(nama="sovi", umur="17", pekerjaan="programmer"))
 
-
 # fungsi anonim(lambda expression) = fungsi tanpa mendeklarasikan def
 # name_func = lambda args : ret_val
 luas_persegi = lambda panjang, lebar: panjang*lebar

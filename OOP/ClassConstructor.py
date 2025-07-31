@@ -1,4 +1,4 @@
-# functio di dalam class
+# function didalam class
 class mobil:
     # atribut instance
     def __init__(self, warna, merek):
